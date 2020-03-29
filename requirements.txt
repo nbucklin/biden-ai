@@ -1,0 +1,18 @@
+# PIP Requirements for Python3
+#
+# Install (preferably in a virtual env) using:
+#   $ pip install -r requirements.txt
+
+##
+# keras
+Keras==2.3.1
+h5py==2.10.0
+
+##
+# selenium
+selenium==3.141.0
+webdriver-manager==2.3.0
+
+##
+# misc
+numpy==1.18.2
