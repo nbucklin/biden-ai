@@ -15,4 +15,4 @@ webdriver-manager==2.3.0
 
 ##
 # misc
-numpy==1.18.2
+numpy==1.22.0
